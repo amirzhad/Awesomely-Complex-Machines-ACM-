@@ -1,3 +1,17 @@
+/*
+Author:
+    Amir Zhad
+    2018-02-21
+Description:
+    The director of Awesomely Complex Machines (ACM) whose task is to maximize the amount of money that ACM makes during the restructuring.
+Source:
+    https://github.com/amirzhad/Awesomely-Complex-Machines-ACM-.git
+Compile: (Ubuntu)
+    g++ -std=gnu++11 ACM.cpp -o CPP.exe
+Run: (Windows)
+    ACM.exe
+*/
+
 #include "stdafx.h"
 #include <iostream>
 #include <fstream>
