@@ -10,7 +10,7 @@ Source:
 Compile: (Ubuntu)
     g++ -std=gnu++11 ACM2.cpp -o ACM2.exe
 Run: (Windows)
-    ACM.exe
+    ACM2.exe
 */
 #include "stdafx.h"
 #include <iostream>
