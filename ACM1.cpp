@@ -7,7 +7,7 @@ Description:
 Source:
     https://github.com/amirzhad/Awesomely-Complex-Machines-ACM-.git
 Compile: (Ubuntu)
-    g++ -std=gnu++11 ACM.cpp -o CPP.exe
+    g++ -std=gnu++11 ACM1.cpp -o ACM1.exe
 Run: (Windows)
     ACM.exe
 */
