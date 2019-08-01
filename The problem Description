@@ -26,13 +26,3 @@ Sample input:
 
 Output for the Sample Input
 Case 1: 44
-
-Run Program
-From the terminal command line, run problemf.py with a properly formatted input file.
-
-$ python problemf.py test.txt
-Case 1: 44
-Case 2: 11
-Case 3: 12
-Case 4: 10
-Case 5: 39
